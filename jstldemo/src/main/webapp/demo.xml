@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<student>
+<name>mahesh</name>
+<surname>alladi</surname>
+<age>23</age>
+</student>
+
+ 
+
+<student>
+<name>uma</name>
+<surname>reddy</surname>
+<age>22</age>
+</student>
+</students>
+
+
