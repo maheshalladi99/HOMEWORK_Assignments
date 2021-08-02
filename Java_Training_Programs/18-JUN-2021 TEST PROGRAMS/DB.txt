@@ -1,0 +1,5 @@
+CREATE DATABASE demoproj;
+use demoproj;
+create table demo1(id varchar(20), string varchar(20));
+select * from demo1;
+insert into demo1 values('1','mahesh')
